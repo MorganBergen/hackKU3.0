@@ -3,7 +3,10 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Clarity - Homepage</title>
-		<link rel="stylesheet" href="stylesheets/style.css">
+		{% load static %}
+		
+		<link rel="stylesheet" href="{% static 'stylesheets/style.css' %}">
+		
 	</head>
 	<body>
 		<!-- NAV BAR -->
@@ -26,7 +29,9 @@
 		
 		<!-- logo image -->
 		<a href="index.html" class="logo">
-			<img src="images/logo_version1.png" alt="logo">
+			{% load static %}
+			<img src="{% static 'images/logo_version1.png' %}" alt="logo">
+			
 		</a>
 		
 		<!-- Title -->
