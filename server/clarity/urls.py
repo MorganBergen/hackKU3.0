@@ -7,7 +7,8 @@ urlpatterns = [
 	path("index.html", views.index, name="index"),
 	path("find_company.html", views.findcompany, name="find_company"),
 	path("request_company.html", views.requestcompany, name="request_company")
-] 
+]  
+
 # + static(settings.STATIC_URL, document_root=settings.STATIC_ROO)
 
 
