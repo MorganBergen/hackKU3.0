@@ -12,6 +12,12 @@ def requestcompany(request):
 	return render(request, "pages/request_company.html")
 
 '''
+
+from django.conf import settings
+from django.conf.urls.static import static
+
+
+
 /pages/index.html
 /pages/find_company.html
 /pages/request_company.html
