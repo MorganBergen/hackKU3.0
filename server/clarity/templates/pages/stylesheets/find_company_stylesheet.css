@@ -1,0 +1,51 @@
+@charset "utf-8";
+@import url("../webfonts/IstokWeb_Regular/font_imports.css");
+
+
+.instructionsSection {
+	background-color: #d1d6bc;
+	text-align: center;
+	margin-top: 75px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.instructionsSection p {
+	margin: 0px;
+	font-size: 1.625rem;
+}
+
+.listBox {
+	height: 160px;
+}
+
+.listBox h3 {
+	float: left;
+	margin-left: 10%;
+}
+
+table {
+	width: 100%;
+	font-size: 1.625rem;
+	text-align: center;
+	margin-top: 20px;
+}
+
+th {
+	width: 50%;
+}
+
+td {
+	height: 60px;
+}
+
+.reportButton {
+	margin-left: 35%;
+	margin-right: 35%;
+	padding: 10px;
+	background-color: #93827f;
+	height: 100%;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
