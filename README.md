@@ -1,6 +1,7 @@
 # hackKU3.0
+Hackathon Project for HackKU 2022
 
-## Hackathon Project for HackKU 2022
+## Clarity
 
 ### Inspiration
 Our ultimate vision is to create a platform where users can look up a company's name and click a button to generate visual representation of the data that's accessible to anyone.
