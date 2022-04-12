@@ -2,7 +2,7 @@
 
 # Hackathon Project for HackKU 2022
 
-Inspiration
+# Inspiration
 Our ultimate vision is to create a platform where users can look up a company's name and click a button to generate visual representation of the data that's accessible to anyone.
 We are passionate about the environment and wanted to use our skills to make positive change through digital tools.
 What it does
