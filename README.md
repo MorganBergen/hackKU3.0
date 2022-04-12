@@ -1,5 +1,5 @@
 # hackKU3.0
-Hackathon Project for [HackKU 2022](url)
+Hackathon Project for [HackKU 2022](https://hackku.org)
 
 ## Clarity
 
