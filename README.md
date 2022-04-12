@@ -41,4 +41,10 @@ Learned how to use GitHub, LiveServer extension for VS Code, integrate Django, H
 ### What's next for Clarity
 We will have it interact with large volumes of data, have it automatically generate graphs on command for users.
 Use real companies' data and market to real users
-Built With
+
+## Preview
+![home](https://user-images.githubusercontent.com/65584733/163025954-708fcf41-1a8e-4d31-b77c-4872ecfe364c.png)
+
+![find](https://user-images.githubusercontent.com/65584733/163025973-daa597c1-b62d-4a25-a42c-b4595856809b.png)
+
+
